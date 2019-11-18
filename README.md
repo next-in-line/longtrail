@@ -1,6 +1,6 @@
 <br />
 <div align="center" style="margin:auto;">
-    <img src="logo-wide.png?raw=true" width='150px' />
+    <img src="solo-logo.png?raw=true" width='150px' />
 </div>
 
 Fast, opinionated, starter kit for making web applications with [node.js](http://nodejs.org).
