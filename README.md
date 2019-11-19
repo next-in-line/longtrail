@@ -1,6 +1,8 @@
 <br />
-<div align="center" style="margin:auto;">
-    <img src="https://github.com/next-in-line/longtrail/blob/master/solo-logo.png?raw=true" width='150px' />
+<div align="center" style="margin:auto; text-align: center">
+    <div style="margin:auto; display: inline-block;">
+        <img src="https://github.com/next-in-line/longtrail/blob/master/solo-logo.png?raw=true" width='150px' />
+    </div>
 </div>
 
 Fast, opinionated, starter kit for making web applications with [node.js](http://nodejs.org).
