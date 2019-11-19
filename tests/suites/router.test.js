@@ -1,6 +1,6 @@
 const support = require('../support');
 const {v4} = require('uuid');
-const router = support.app().lib.Router;
+const router = support.app().lib.router;
 const url  = require('url');
 
 describe('Router Tests', ()=>{
