@@ -4,6 +4,7 @@ module.exports = {
         const base = {
             lib: {},
             config: {
+                workingDirectory: process.cwd(),
                 ...config,
                 processors: {
                     concurrency: 1,
@@ -12,7 +13,7 @@ module.exports = {
                 },
             }
         }
-        
+
         base.lib = lib.createLibBase(base);
         
         return base
