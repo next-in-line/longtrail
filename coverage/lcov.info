@@ -1,5 +1,5 @@
 TN:
-SF:/Users/carsonnwright/Projects/gadgeteer/lib/index.js
+SF:/Users/carsonnwright/Projects/longtrail/lib/index.js
 FN:12,(anonymous_0)
 FNF:1
 FNH:1
@@ -29,7 +29,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Users/carsonnwright/Projects/gadgeteer/lib/router.js
+SF:/Users/carsonnwright/Projects/longtrail/lib/router.js
 FN:5,(anonymous_0)
 FN:8,(anonymous_1)
 FN:24,(anonymous_2)
@@ -229,7 +229,7 @@ BRF:54
 BRH:12
 end_of_record
 TN:
-SF:/Users/carsonnwright/Projects/gadgeteer/lib/store.js
+SF:/Users/carsonnwright/Projects/longtrail/lib/store.js
 FN:2,(anonymous_0)
 FN:4,(anonymous_1)
 FN:7,(anonymous_2)
@@ -263,7 +263,7 @@ BRF:4
 BRH:4
 end_of_record
 TN:
-SF:/Users/carsonnwright/Projects/gadgeteer/lib/controller/example.js
+SF:/Users/carsonnwright/Projects/longtrail/lib/controller/example.js
 FN:8,(anonymous_0)
 FN:11,(anonymous_1)
 FN:17,(anonymous_2)
@@ -300,7 +300,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Users/carsonnwright/Projects/gadgeteer/lib/controller/generate.js
+SF:/Users/carsonnwright/Projects/longtrail/lib/controller/generate.js
 FN:6,(anonymous_0)
 FNF:1
 FNH:0
@@ -342,7 +342,7 @@ BRF:8
 BRH:0
 end_of_record
 TN:
-SF:/Users/carsonnwright/Projects/gadgeteer/lib/controller/index.js
+SF:/Users/carsonnwright/Projects/longtrail/lib/controller/index.js
 FN:4,(anonymous_0)
 FN:12,(anonymous_1)
 FN:14,(anonymous_2)
@@ -440,7 +440,7 @@ BRF:25
 BRH:0
 end_of_record
 TN:
-SF:/Users/carsonnwright/Projects/gadgeteer/lib/db/index.js
+SF:/Users/carsonnwright/Projects/longtrail/lib/db/index.js
 FN:3,(anonymous_0)
 FNF:1
 FNH:1
@@ -455,7 +455,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Users/carsonnwright/Projects/gadgeteer/lib/logger/broker.js
+SF:/Users/carsonnwright/Projects/longtrail/lib/logger/broker.js
 FN:5,(anonymous_0)
 FN:8,(anonymous_1)
 FN:11,(anonymous_2)
@@ -517,7 +517,7 @@ BRF:14
 BRH:8
 end_of_record
 TN:
-SF:/Users/carsonnwright/Projects/gadgeteer/lib/logger/index.js
+SF:/Users/carsonnwright/Projects/longtrail/lib/logger/index.js
 FN:5,(anonymous_0)
 FN:7,(anonymous_1)
 FN:18,(anonymous_2)
@@ -609,7 +609,7 @@ BRF:21
 BRH:9
 end_of_record
 TN:
-SF:/Users/carsonnwright/Projects/gadgeteer/lib/messenger/index.js
+SF:/Users/carsonnwright/Projects/longtrail/lib/messenger/index.js
 FN:7,(anonymous_0)
 FN:9,(anonymous_1)
 FN:11,(anonymous_2)
@@ -683,7 +683,7 @@ BRF:6
 BRH:0
 end_of_record
 TN:
-SF:/Users/carsonnwright/Projects/gadgeteer/lib/migration/example.js
+SF:/Users/carsonnwright/Projects/longtrail/lib/migration/example.js
 FN:4,(anonymous_0)
 FN:7,(anonymous_1)
 FNF:2
@@ -698,7 +698,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Users/carsonnwright/Projects/gadgeteer/lib/migration/generate.js
+SF:/Users/carsonnwright/Projects/longtrail/lib/migration/generate.js
 FN:5,(anonymous_0)
 FNF:1
 FNH:0
@@ -722,7 +722,7 @@ BRF:2
 BRH:0
 end_of_record
 TN:
-SF:/Users/carsonnwright/Projects/gadgeteer/lib/migration/index.js
+SF:/Users/carsonnwright/Projects/longtrail/lib/migration/index.js
 FN:2,(anonymous_0)
 FN:4,(anonymous_1)
 FN:10,(anonymous_2)
@@ -919,7 +919,7 @@ BRF:35
 BRH:16
 end_of_record
 TN:
-SF:/Users/carsonnwright/Projects/gadgeteer/lib/model/example.js
+SF:/Users/carsonnwright/Projects/longtrail/lib/model/example.js
 FN:4,(anonymous_0)
 FNF:1
 FNH:0
@@ -933,7 +933,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Users/carsonnwright/Projects/gadgeteer/lib/model/generate.js
+SF:/Users/carsonnwright/Projects/longtrail/lib/model/generate.js
 FN:6,(anonymous_0)
 FNF:1
 FNH:0
@@ -958,7 +958,7 @@ BRF:2
 BRH:0
 end_of_record
 TN:
-SF:/Users/carsonnwright/Projects/gadgeteer/lib/model/index.js
+SF:/Users/carsonnwright/Projects/longtrail/lib/model/index.js
 FN:6,(anonymous_0)
 FN:17,(anonymous_1)
 FN:18,(anonymous_2)
@@ -1432,7 +1432,7 @@ BRF:51
 BRH:6
 end_of_record
 TN:
-SF:/Users/carsonnwright/Projects/gadgeteer/lib/model/associationHelpers/findBy.js
+SF:/Users/carsonnwright/Projects/longtrail/lib/model/associationHelpers/findBy.js
 FN:1,(anonymous_0)
 FN:2,(anonymous_1)
 FN:8,(anonymous_2)
@@ -1468,7 +1468,7 @@ BRF:4
 BRH:0
 end_of_record
 TN:
-SF:/Users/carsonnwright/Projects/gadgeteer/lib/model/associationHelpers/firstAndLast.js
+SF:/Users/carsonnwright/Projects/longtrail/lib/model/associationHelpers/firstAndLast.js
 FN:1,(anonymous_0)
 FN:3,(anonymous_1)
 FN:12,(anonymous_2)
@@ -1503,7 +1503,7 @@ BRF:8
 BRH:0
 end_of_record
 TN:
-SF:/Users/carsonnwright/Projects/gadgeteer/lib/model/associationHelpers/index.js
+SF:/Users/carsonnwright/Projects/longtrail/lib/model/associationHelpers/index.js
 FN:7,(anonymous_0)
 FNF:1
 FNH:0
@@ -1521,7 +1521,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Users/carsonnwright/Projects/gadgeteer/lib/model/associationHelpers/ltree.js
+SF:/Users/carsonnwright/Projects/longtrail/lib/model/associationHelpers/ltree.js
 FN:4,(anonymous_0)
 FN:6,(anonymous_1)
 FN:10,(anonymous_2)
@@ -1547,7 +1547,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Users/carsonnwright/Projects/gadgeteer/lib/processors/driver.js
+SF:/Users/carsonnwright/Projects/longtrail/lib/processors/driver.js
 FN:5,(anonymous_0)
 FN:8,(anonymous_1)
 FN:36,(anonymous_2)
@@ -1675,7 +1675,7 @@ BRF:30
 BRH:13
 end_of_record
 TN:
-SF:/Users/carsonnwright/Projects/gadgeteer/lib/processors/example.js
+SF:/Users/carsonnwright/Projects/longtrail/lib/processors/example.js
 FN:5,(anonymous_0)
 FN:18,(anonymous_1)
 FNF:2
@@ -1692,7 +1692,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Users/carsonnwright/Projects/gadgeteer/lib/processors/generate.js
+SF:/Users/carsonnwright/Projects/longtrail/lib/processors/generate.js
 FN:6,(anonymous_0)
 FNF:1
 FNH:0
@@ -1722,7 +1722,7 @@ BRF:2
 BRH:0
 end_of_record
 TN:
-SF:/Users/carsonnwright/Projects/gadgeteer/lib/processors/index.js
+SF:/Users/carsonnwright/Projects/longtrail/lib/processors/index.js
 FN:9,(anonymous_0)
 FNF:1
 FNH:1
@@ -1745,7 +1745,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Users/carsonnwright/Projects/gadgeteer/lib/processors/processor.js
+SF:/Users/carsonnwright/Projects/longtrail/lib/processors/processor.js
 FN:4,(anonymous_0)
 FN:6,(anonymous_1)
 FN:14,(anonymous_2)
@@ -1944,7 +1944,7 @@ BRF:39
 BRH:23
 end_of_record
 TN:
-SF:/Users/carsonnwright/Projects/gadgeteer/lib/processors/supervisor.js
+SF:/Users/carsonnwright/Projects/longtrail/lib/processors/supervisor.js
 FN:6,(anonymous_0)
 FN:15,(anonymous_1)
 FN:18,(anonymous_2)
@@ -2068,7 +2068,7 @@ BRF:39
 BRH:28
 end_of_record
 TN:
-SF:/Users/carsonnwright/Projects/gadgeteer/lib/processors/worker.js
+SF:/Users/carsonnwright/Projects/longtrail/lib/processors/worker.js
 FN:6,(anonymous_0)
 FN:12,(anonymous_1)
 FN:46,(anonymous_2)
@@ -2128,7 +2128,7 @@ BRF:17
 BRH:9
 end_of_record
 TN:
-SF:/Users/carsonnwright/Projects/gadgeteer/lib/redis/createClient.js
+SF:/Users/carsonnwright/Projects/longtrail/lib/redis/createClient.js
 FN:6,createClient
 FNF:1
 FNH:1
@@ -2255,7 +2255,7 @@ BRF:69
 BRH:62
 end_of_record
 TN:
-SF:/Users/carsonnwright/Projects/gadgeteer/lib/redis/index.js
+SF:/Users/carsonnwright/Projects/longtrail/lib/redis/index.js
 FN:6,(anonymous_0)
 FN:10,(anonymous_1)
 FN:11,(anonymous_2)
@@ -2322,7 +2322,7 @@ BRF:14
 BRH:13
 end_of_record
 TN:
-SF:/Users/carsonnwright/Projects/gadgeteer/lib/redis/utils.js
+SF:/Users/carsonnwright/Projects/longtrail/lib/redis/utils.js
 FN:7,clone
 FN:39,convenienceClone
 FNF:2

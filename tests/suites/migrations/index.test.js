@@ -1,4 +1,4 @@
-const {gadgeteer} = require('../../support')
+const {longtrail} = require('../../support')
 const {Client} = require('pg')
 const helpers = require('./helpers')
 
@@ -6,17 +6,17 @@ describe('Migrations', ()=>{
     
     test('Should migrate.up()', async()=>{  
         const client = new Client({
-            database: 'gadgeteer_test'
+            database: 'longtrail_test'
         })
         await client.connect()
 
-        const app = gadgeteer.init({
+        const app = longtrail.init({
             database: {
                 client: 'pg',
                 asyncStackTraces: true,
                 // version: '7.2',
                 connection: {
-                    database: 'gadgeteer_test'
+                    database: 'longtrail_test'
                 },
                 migrations: {
                     tableName: 'migrations1',
@@ -50,18 +50,18 @@ describe('Migrations', ()=>{
 
     test('Should migrate.down()', async()=>{  
         const client = new Client({
-            database: 'gadgeteer_test'
+            database: 'longtrail_test'
         })
         
         await client.connect()
 
-        const app = gadgeteer.init({
+        const app = longtrail.init({
             database: {
                 client: 'pg',
                 asyncStackTraces: true,
                 // version: '7.2',
                 connection: {
-                    database: 'gadgeteer_test'
+                    database: 'longtrail_test'
                 },
                 migrations: {
                     tableName: 'migrations3',
@@ -109,18 +109,18 @@ describe('Migrations', ()=>{
 
     test('Should migrate.up() migrations.alterTable()', async()=>{  
         const client = new Client({
-            database: 'gadgeteer_test'
+            database: 'longtrail_test'
         })
         
         await client.connect()
 
-        const app = gadgeteer.init({
+        const app = longtrail.init({
             database: {
                 client: 'pg',
                 asyncStackTraces: true,
                 // version: '7.2',
                 connection: {
-                    database: 'gadgeteer_test'
+                    database: 'longtrail_test'
                 },
                 migrations: {
                     tableName: 'migrations4',
@@ -153,18 +153,18 @@ describe('Migrations', ()=>{
 
     test('Should migrate.up() migrations.createTable() SAFE', async()=>{  
         const client = new Client({
-            database: 'gadgeteer_test'
+            database: 'longtrail_test'
         })
         
         await client.connect()
 
-        const app = gadgeteer.init({
+        const app = longtrail.init({
             database: {
                 client: 'pg',
                 asyncStackTraces: true,
                 // version: '7.2',
                 connection: {
-                    database: 'gadgeteer_test'
+                    database: 'longtrail_test'
                 },
                 migrations: {
                     tableName: 'migrations4',
@@ -212,18 +212,18 @@ describe('Migrations', ()=>{
 
     test('Should migrate.up() migrations.addColumn()', async()=>{  
         const client = new Client({
-            database: 'gadgeteer_test'
+            database: 'longtrail_test'
         })
         
         await client.connect()
 
-        const app = gadgeteer.init({
+        const app = longtrail.init({
             database: {
                 client: 'pg',
                 asyncStackTraces: true,
                 // version: '7.2',
                 connection: {
-                    database: 'gadgeteer_test'
+                    database: 'longtrail_test'
                 },
                 migrations: {
                     tableName: 'migrations5',

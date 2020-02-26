@@ -1,5 +1,5 @@
 #!/bin/bash
-psql -U postgres -d "gadgeteer_test" -c "
+psql -U postgres -d "longtrail_test" -c "
     drop schema public cascade;
     create schema public;
     create extension ltree;

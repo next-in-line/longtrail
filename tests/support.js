@@ -1,14 +1,14 @@
-const gadgeteer = require('../index')
+const longtrail = require('../index')
 const {Client} = require('pg')
 const app = ()=>(
-  gadgeteer.init({
+  longtrail.init({
     test: true,
     database: {
       client: 'pg',
       asyncStackTraces: true,
       // version: '7.2',
       connection: {
-          database: 'gadgeteer_test'
+          database: 'longtrail_test'
       },
       migrations: {
         directory: './tests/migrations'
@@ -22,7 +22,7 @@ const app = ()=>(
 
 
 module.exports = {
-  gadgeteer,
+  longtrail,
   prepare: async()=>{
 
   },

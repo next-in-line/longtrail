@@ -1,12 +1,12 @@
-const gadgeteer = require('../../index')
+const longtrail = require('../../index')
 
-const app = gadgeteer.init({
+const app = longtrail.init({
     database: {
         client: 'pg',
         asyncStackTraces: true,
         // version: '7.2',
         connection: {
-            database: 'gadgeteer_test'
+            database: 'longtrail_test'
         },
         migrations: {
             directory: './tests/migrations'

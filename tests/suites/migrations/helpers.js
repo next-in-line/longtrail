@@ -3,7 +3,7 @@ const {Client} = require('pg')
 module.exports = {
     describeTable: async (tableName)=>{
         const client = new Client({
-            database: 'gadgeteer_test'
+            database: 'longtrail_test'
         })
         await client.connect()
 
