@@ -14,7 +14,7 @@
     "lodash": "^4.17.15",
     "luxon": "^1.19.3",
     "mailgun-js": "^0.22.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "moment-timezone": "^0.5.27",
     "objection": "^1.6.11",
     "pg": "^7.12.1",
