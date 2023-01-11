@@ -9,7 +9,7 @@
     "clean-deep": "^3.1.0",
     "find-my-way": "^2.2.1",
     "ioredis": "^4.14.1",
-    "knex": "^0.19.5",
+    "knex": "^2.4.0",
     "knex-migrate": "^1.7.4",
     "lodash": "^4.17.15",
     "luxon": "^1.19.3",
